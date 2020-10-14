@@ -1,4 +1,7 @@
 # ProgrammingProject2_SMP
+**Goal:** To write a Python program that contains various functions to manipulate a small data set using features of lists,
+tuples, dictionaries and sets.
+
 
 - Problem 1:  extract_column() Function
 - Problem 2:  names using zip()
@@ -8,5 +11,5 @@
 - Problem 6:  prez_dicts dictionary & convert_to_dict() function  
 
 
-- Bonus 1: convert_to_sentence() function
-- Bonus 2: unique ages list
+- *Bonus 1: convert_to_sentence() function
+- *Bonus 2: unique ages list
