@@ -11,5 +11,5 @@ tuples, dictionaries and sets.
 - Problem 6:  prez_dicts dictionary & convert_to_dict() function  
 
 
-- *Bonus 1: convert_to_sentence() function
-- *Bonus 2: unique ages list
+- Bonus 1: convert_to_sentence() function
+- Bonus 2: unique ages list
